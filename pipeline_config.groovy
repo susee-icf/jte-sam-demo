@@ -1,3 +1,4 @@
 libraries{
-    maven
+    sam
+    sonarqube
 }
